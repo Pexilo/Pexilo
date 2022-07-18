@@ -9,7 +9,7 @@
 #### 🎓 I'm a french SWE student
 #### 📗 Last academic project was in collaboration with [INEO-SENSE](https://www.ineo-sense.com/?lang=en)
 #### 🌱 Newly learned Angular & JEE
-#### 🐲 Actively involved in [Stealthy](https://github.com/Pexilo/Stealthy)
+#### 🐲 Actively involved in the development of [Stealthy](https://github.com/Pexilo/Stealthy)
 
 ## 🛠 Tech Stack
 
