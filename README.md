@@ -101,6 +101,8 @@
     </a>
   </p>
   
+  
+### [📊](https://wakatime.com/@Pexilo) Coding time
 <!--START_SECTION:waka-->
 
 ```text
