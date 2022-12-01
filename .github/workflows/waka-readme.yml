@@ -7,13 +7,11 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@a80f7247c21c8d8f5c5b358d01acc993a62aeacf
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakatime.com/api
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
