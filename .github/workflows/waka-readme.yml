@@ -3,13 +3,13 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '45 11 * * *'
+    - cron: '0 */2 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@a80f7247c21c8d8f5c5b358d01acc993a62aeacf
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update Wakapi stats
