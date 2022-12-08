@@ -8,7 +8,7 @@
 
 #### 🙌 My name is Gaël
 #### 🎓 I'm a french software engineer student
-#### 🌱 Newly learned Angular & JEE
+#### 🌱 Newly learned Android & NodeJS
 #### 📗 Last academic project was in collab with [INEO-SENSE](https://www.ineo-sense.com/?lang=en)
 #### 🐲 Currently involved in the development of [Stealthy](https://github.com/Pexilo/Stealthy)
 
