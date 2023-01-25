@@ -7,10 +7,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.massart@groupe-aen.info)
 
 #### 🙌 My name is Gaël
-#### 🎓 I'm a french software engineer student
-#### 🌱 Newly learned Android & NodeJS
-#### 📗 Last academic project was in collab with [INEO-SENSE](https://www.ineo-sense.com/?lang=en)
-#### 🐲 Currently involved in the development of [Stealthy](https://github.com/Pexilo/Stealthy)
+#### 🎓 French software engineering student
+#### 📍 Currently an intern at [PACK SOLUTIONS](https://www.pack-solutions.com/)
+#### 🌱 Recently learned Java Android & NodeJS
+#### 📗 My last academic project was in collaboration with[INEO-SENSE](https://www.ineo-sense.com/?lang=en)
 
 ## 🛠 Tech Stack
 
