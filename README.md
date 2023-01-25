@@ -10,7 +10,6 @@
 #### 🎓 French software engineering student
 #### 📍 Currently an intern at [PACK SOLUTIONS](https://www.pack-solutions.com/)
 #### 🌱 Recently learned Java Android & NodeJS
-#### 📗 My last academic project was in collaboration with[INEO-SENSE](https://www.ineo-sense.com/?lang=en)
 
 ## 🛠 Tech Stack
 
