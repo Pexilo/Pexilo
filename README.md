@@ -104,7 +104,7 @@
 ### [📊](https://wakatime.com/@Pexilo) Coding time
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript            89 hrs 23 mins  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.22 %
 TypeScript            86 hrs 44 mins  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.44 %
 Java                  85 hrs 18 mins  🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.02 %
