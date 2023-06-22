@@ -3,9 +3,6 @@
 ![Discord](https://dcbadge.vercel.app/api/shield/224537059308732416?compact=true)
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/massart-gael)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.massart@groupe-aen.info)
-
 #### 🙌 My name is Gaël
 #### 🎓 French software engineering student
 #### 📍 Currently an intern at [PACK SOLUTIONS](https://www.pack-solutions.com/)
