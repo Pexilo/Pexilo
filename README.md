@@ -5,7 +5,7 @@
 
 #### 🙌 My name is Gaël
 #### 🎓 French software engineering student
-#### 📍 Currently an intern at [PACK SOLUTIONS](https://www.pack-solutions.com/)
+#### 📍 Currently...
 #### 🌱 Recently learned Quarkus & REACT
 
 ## 🛠 Tech Stack
