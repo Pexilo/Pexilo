@@ -4,9 +4,10 @@
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
 
 #### 🙌 My name is Gaël
-#### 🎓 French software engineering student
-#### 📍 Currently...
-#### 🌱 Recently learned Quarkus & REACT
+#### 🎓 French Software Engineering Student
+#### 🌱 Junior Full-Stack Web Developer
+#### 📍 Apprenticeship at [Agoragom](https://agoragom.com/) 
+
 
 ## 🛠 Tech Stack
 
