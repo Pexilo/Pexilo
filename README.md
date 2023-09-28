@@ -6,7 +6,7 @@
 #### 🙌 My name is Gaël
 #### 🎓 French Software Engineering Student
 #### 🌱 Junior Full-Stack Web Developer
-#### 📍 Apprenticeship at [Agoragom](https://agoragom.com/) 
+#### 📍 Apprentice at [Agoragom](https://agoragom.com/) 
 
 
 ## 🛠 Tech Stack
