@@ -110,6 +110,6 @@ JSON                  23 hrs 20 mins     03.95 %
 
 <!--END_SECTION:waka-->
 
-### Contact & Portfolio: https://linktr.ee/mgael
+### Contact & Portfolio: [linktr.ee/mgael](https://linktr.ee/mgael)
   
 ![](https://hit.yhype.me/github/profile?user_id=67436391)
