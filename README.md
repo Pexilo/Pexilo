@@ -97,7 +97,7 @@
     </a>
   </p> 
   
-### [](https://wakatime.com/@Pexilo) Coding time
+### [Coding time](https://wakatime.com/@Pexilo)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -110,6 +110,6 @@ JSON                  23 hrs 20 mins     03.95 %
 
 <!--END_SECTION:waka-->
 
-#### Contact & Portfolio: https://linktr.ee/mgael
+### Contact & Portfolio: https://linktr.ee/mgael
   
 ![](https://hit.yhype.me/github/profile?user_id=67436391)
