@@ -1,15 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:14406D,100:308A70&section=header&text=Hi%20there%20👋&fontColor=f2f2f2&fontSize=40&desc=😎%20code%20enjoyer&descSize=15&descAlign=48&descAlignY=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:14406D,100:308A70&section=header&text=Hi%20there%20&fontColor=f2f2f2&fontSize=40&desc=%20code%20enjoyer&descSize=15&descAlign=48&descAlignY=80&animation=fadeIn)
 
 ![Discord](https://dcbadge.vercel.app/api/shield/224537059308732416?compact=true)
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
 
-#### 🙌 My name is Gaël
-#### 🎓 French Software Engineering Student
-#### 🌱 Junior Full-Stack Web Developer
-#### 📍 Apprentice at [Agoragom](https://agoragom.com/) 
+####  My name is Gaël
+####  French Software Engineering Student
+####  Junior Full-Stack Web Developer
+####  Apprentice at [Agoragom](https://agoragom.com/) 
 
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -96,20 +95,21 @@
         height="40"
       />
     </a>
-  </p>
+  </p> 
   
-  
-### [📊](https://wakatime.com/@Pexilo) Coding time
+### [](https://wakatime.com/@Pexilo) Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript            210 hrs 25 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.57 %
-JavaScript            151 hrs 39 mins 🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.64 %
-Java                  91 hrs 7 mins   🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.40 %
-XML                   23 hrs 41 mins  🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.00 %
-JSON                  23 hrs 20 mins  🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.95 %
+TypeScript            210 hrs 25 mins    35.57 %
+JavaScript            151 hrs 39 mins    25.64 %
+Java                  91 hrs 7 mins      15.40 %
+XML                   23 hrs 41 mins     04.00 %
+JSON                  23 hrs 20 mins     03.95 %
 ```
 
 <!--END_SECTION:waka-->
+
+#### Contact & Portfolio: https://linktr.ee/mgael
   
 ![](https://hit.yhype.me/github/profile?user_id=67436391)
