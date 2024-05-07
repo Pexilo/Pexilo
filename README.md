@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:14406D,100:308A70&section=header&text=Hi%20there%20&fontColor=f2f2f2&fontSize=40&desc=%20code%20enjoyer&descSize=15&descAlign=48&descAlignY=80&animation=fadeIn)
 
-![Discord](https://dcbadge.vercel.app/api/shield/224537059308732416?compact=true)
+![Discord](https://dcbadge.limes.pink/api/shield/224537059308732416?compact=true)
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
 
 ####  My name is Gaël
