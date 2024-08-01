@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:14406D,100:308A70&section=header&text=Hi%20there%20&fontColor=f2f2f2&fontSize=40&desc=%20code%20enjoyer&descSize=15&descAlign=48&descAlignY=80&animation=fadeIn)
+<img src="https://github.com/user-attachments/assets/2230637b-365e-4347-a0cb-e5c3a67ce351" />
+
 
 ![Discord](https://dcbadge.limes.pink/api/shield/224537059308732416?compact=true)
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
