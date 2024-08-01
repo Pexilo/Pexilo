@@ -11,7 +11,7 @@
 #### 🙌 My name is Gaël
 #### 🎓 French software engineering student
 #### 🌱 Junior Full-Stack Web Developer
-#### 📍 Apprentice at [Crédit Agricole Technologies et Services]([https://agoragom.com/](https://www.linkedin.com/company/credit-agricole-technologies-et-services)) 
+#### 📍 Apprentice at [Crédit Agricole Technologies et Services](https://www.linkedin.com/company/credit-agricole-technologies-et-services)
 
 ----
 
