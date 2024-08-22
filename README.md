@@ -1,4 +1,5 @@
-[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/66c5fde30000ba601c49/preview?project=667d35ca0017fb21fc6c)](https://linktr.ee/mgael)
+[![BentoHub grid image](https://github.com/user-attachments/assets/9f7cf399-a641-4500-90c4-3b6e5cff506b)](https://linktr.ee/mgael)
+
 
 ![Discord](https://dcbadge.limes.pink/api/shield/224537059308732416?compact=true)
 ![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
