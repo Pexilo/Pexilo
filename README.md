@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msrt.gael@gmail.com)
 
 #### 🙌 My name is Gaël
-#### 🎓 French software engineering student
+#### 🎓 French software engineering graduate
 #### 🌱 Junior Full-Stack Web Developer
 #### 📍 Apprentice at [Crédit Agricole Technologies et Services](https://www.linkedin.com/company/credit-agricole-technologies-et-services)
 
