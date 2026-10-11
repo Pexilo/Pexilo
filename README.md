@@ -1,6 +1,4 @@
 ![Discord](https://dcbadge.limes.pink/api/shield/224537059308732416?compact=true)
-![views](https://komarev.com/ghpvc/?username=Pexilo&style=for-the-badge&label=VIEWS&color=5865f2)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgael)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msrt.gael@gmail.com)
 
@@ -23,5 +21,3 @@ JSON                           86 hrs 20 mins        🟩🟨⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
-  
-![](https://hit.yhype.me/github/profile?user_id=67436391)
